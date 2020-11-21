@@ -1,0 +1,12 @@
+{
+  "name": "WIT",
+  "displayName": "WIT",
+  "expo": {
+    "name": "WIT",
+    "slug": "WIT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
